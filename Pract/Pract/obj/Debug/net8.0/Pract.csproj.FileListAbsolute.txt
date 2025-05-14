@@ -1,0 +1,14 @@
+E:\3 курс\уп02\Pract\Pract\bin\Debug\net8.0\Pract.exe
+E:\3 курс\уп02\Pract\Pract\bin\Debug\net8.0\Pract.deps.json
+E:\3 курс\уп02\Pract\Pract\bin\Debug\net8.0\Pract.runtimeconfig.json
+E:\3 курс\уп02\Pract\Pract\bin\Debug\net8.0\Pract.dll
+E:\3 курс\уп02\Pract\Pract\bin\Debug\net8.0\Pract.pdb
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfoInputs.cache
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfo.cs
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.csproj.CoreCompileInputs.cache
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.dll
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\refint\Pract.dll
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.pdb
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\Pract.genruntimeconfig.cache
+E:\3 курс\уп02\Pract\Pract\obj\Debug\net8.0\ref\Pract.dll
